@@ -13,6 +13,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
 gem 'bootsnap', '>= 1.1.0', require: false
+gem 'faker'
 
 group :development, :test do
   gem 'sqlite3'
